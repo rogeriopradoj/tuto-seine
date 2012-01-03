@@ -1,0 +1,5 @@
+{
+    "require": {
+        "seine/seine": ">=0"
+    }
+}
